@@ -4565,7 +4565,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.25rem 0.75rem;
-  color: #747579;
+  color: #1f9bdd;
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -9547,7 +9547,7 @@ textarea.form-control-lg {
 
 .bg-dark {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  background-color: var(--bs-dark) !important;
 }
 
 .bg-orange {
